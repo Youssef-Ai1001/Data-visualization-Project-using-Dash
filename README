@@ -1,3 +1,7 @@
+أعتقد أنك قصدت أنك بحاجة إلى تصحيح بعض الأخطاء في ملف الـ `README` الذي كتبته. إليك النسخة المعدلة والصحيحة:
+
+---
+
 # Data Visualization Project
 
 ## Overview
@@ -10,19 +14,19 @@ This project focuses on creating insightful and interactive data visualizations 
 - **Scalable Framework**: Designed to handle large datasets efficiently.
 
 ## Tools & Technologies
-- **Programming Languages**: Python,
+- **Programming Languages**: Python
 - **Libraries**: Matplotlib, Seaborn, Plotly
 - **Frameworks**: Dash
-- **Data Sources**: CSV,APIs
+- **Data Sources**: CSV, APIs
 
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Youssef-Ai1001/Data-visualization-Project-using-Dashhttps://github.com/your-username/data-visualization.git
+    git clone https://github.com/Youssef-Ai1001/Data-visualization-Project-using-Dash.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd Data Visualization
+    cd Data-visualization-Project-using-Dash
     ```
 3. Install dependencies:
     ```bash
